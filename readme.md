@@ -26,7 +26,6 @@
 
 XDD_URL格式为http://IP地址:端口/api/login/smslogin
 
-![image-20210920125520315](C:\Users\76476\AppData\Roaming\Typora\typora-user-images\image-20210920125520315.png)
 
 再次感谢Y佬  具体教程问问群里或者等好心群友提供我顶置更新
 
